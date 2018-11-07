@@ -6,9 +6,13 @@ img.catimage {
     display: block;
 }
 button.btn.btn-primary {
-
     margin-left: auto;
     margin-right: auto;
     display: block;
-
+}
+html{
+	background-color: black;
+}
+div{
+	background-color: black;
 }
