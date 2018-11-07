@@ -31,4 +31,4 @@ This is a project that uses the random cat API.
 
 *	**Run**: "python3 manage.py".
 
-[Cat API]:http://api.adviceslip.com/
+[Cat API]:http://aws.random.cat/view/738
